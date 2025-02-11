@@ -19,7 +19,7 @@ Now instead of having to create a card and a container for the data, you just do
   </Board>
 ```
 
-Yep, you pretyy much just pass the json object to it.
+Yep, you pretty much just pass the json object to it.
 
 You will likely be disallowed to use my library, but that's okay. Just use this as an inspiration
 and make your own, because that's allowed. It's very simple too. Look at the code.
