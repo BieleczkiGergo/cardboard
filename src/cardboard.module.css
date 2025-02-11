@@ -1,0 +1,19 @@
+.board {
+    display: flex;
+    flex-flow: row wrap;
+    
+}
+
+.card {
+    background-color: #a08269;
+    border: 5px dashed #735c49;
+    border-radius: 10px;
+
+}
+
+.card legend {
+    background-color: #a08269;
+    border-radius: 5px;
+    font-size: 2em;
+
+}
